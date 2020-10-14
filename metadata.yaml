@@ -1,11 +1,16 @@
 _repo: The-Life-and-Times-of-Queen-Victoria-vol-4-of-4_63444
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63444-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Robert Pierpont
     gutenberg_agent_id: '2213'
     url: http://www.gutenberg.org/2009/agents/2213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63444#The-Life-and-Times-of-Queen-Victoria-vol-4-of-4
 gutenberg_issued: '2020-10-12'
 gutenberg_type: Text
 identifiers:
